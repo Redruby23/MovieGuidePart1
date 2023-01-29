@@ -46,7 +46,7 @@ def main():
         elif command.lower() == "Exit":
             break
         else:
-            print("Not a valid command. Please try again. \n")
+            print("Not a valid command. Please try again. \n") 
 
     print("Bye!")
 
